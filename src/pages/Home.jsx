@@ -5,7 +5,7 @@ import { FaChalkboardTeacher,
   FaBrain,
   FaCogs,
   FaTrophy } from "react-icons/fa";
-import profile from "../assets/images/ankit.jpeg";
+import profile from "../assets/images/Sachin.jpeg";
 
 function Home() {
   return (
@@ -15,7 +15,7 @@ function Home() {
       <div className="home-card">
         <img className="profile-img" src={profile} alt="Profile" />
 
-        <h1>Ankit</h1>
+        <h1>Sachin</h1>
         <h3>Frontend Developer</h3>
 
         <p className="tagline">
